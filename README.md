@@ -1,3 +1,8 @@
-# BaseRepo
+# giulioc008
 
-Repository, created by [Giulio Coa](https://t.me/giulioCoaInCamelCase), as a template for the other repositories.
+Welcome,
+
+This is my GitHub profile. Here are my plans and my pastimes; I hope you like it.
+
+
+Giulio
