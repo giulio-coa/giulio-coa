@@ -2,9 +2,9 @@
 
 ## Supported Versions
 
-| Version  | Description                   | Supported          |
-| :------: | :---------------------------: | :----------------: |
-| master   | The actual release my profile | :white_check_mark: |
+| Version  | Description                                   | Supported          |
+| :------: | :-------------------------------------------: | :----------------: |
+| master   | The actual release of the configuration files | :white_check_mark: |
 ## Vulnerability Disclosure
 
 If you think you have found a potential security vulnerability in
