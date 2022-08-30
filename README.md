@@ -1,6 +1,6 @@
 ### Hi there, I'm Giulio Coa 👋
 
-I'm a student at 🏫 **Politecnico di Torino**, *Turin - Italy*, and there I'm finishing my Bachelor's degree in Computer Engineering
+I'm a graduated in Computer Engineering at 🏫 **Politecnico di Torino**, *Turin - Italy*
 * 💬 Ask me about the IT sector<sup>[1](#IT)</sup>, reading<sup>[2](#genres)</sup>, travels<sup>[3](#places)</sup> and manual work
 * 😄 Pronouns: He/His
 
